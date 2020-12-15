@@ -37,7 +37,7 @@ double pythagoras(double xcomp,double ycomp)
 
 void showResult(double result_vec_length,double result_vec_direction)
 {
-    cout << "\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
+    cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
     cout << "\nLength of the resultant vector = " << result_vec_length;
     cout << "\nDirection of the resultant vector (deg) = " << result_vec_direction;
     cout << "\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
